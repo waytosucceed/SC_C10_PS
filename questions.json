@@ -1,0 +1,107 @@
+{
+  "heading": "Function",
+  "topics": [
+    {
+      "heading": "Function",
+      "questions":
+      [
+        {
+          "questionNo": 1,
+          "question": "When you create a new block in Scratch, which block appears in the workspace?",
+          "options": [
+            {
+              "text": "when the green flag clicked"
+            },
+            {
+              "text": "define block"
+            },
+            {
+              "text": "broadcast block"
+            },
+            {
+              "text": "repeat block"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 2,
+          "question": "What category do we use to create a custom block in Scratch?",
+          "options": [
+            {
+              "text": "Events"
+            },
+            {
+              "text": "Variables"
+            },
+            {
+              "text": "My Blocks"
+            },
+            {
+              "text": "Motion"
+            }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 3,
+          "question": "What does the 'define' block do?",
+          "options": [
+            {
+              "text": "It starts the game"
+            },
+            {
+              "text": "It allows us to write instructions for a custom block"
+            },
+            {
+              "text": "It changes the size of a sprite"
+            },
+            {
+              "text": "It stops the script"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 4,
+          "question": "How many times can you use a custom block in your Scratch project?",
+          "options": [
+            {
+              "text": "Only once"
+            },
+            {
+              "text": "Twice"
+            },
+            {
+              "text": "As many times as needed"
+            },
+            {
+              "text": "Only if it is inside a loop"
+            }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 5,
+          "question": "After adding instructions inside the 'define block' of a custom block, how do you use those instructions in your Scratch project?",
+          "options": [
+            {
+              "text": "By clicking on the Define block"
+            },
+            {
+              "text": "By dragging and using the custom block from My Blocks in the script"
+            },
+            {
+              "text": "By adding the instructions again manually in the script"
+            },
+            {
+              "text": "By renaming the Define block"
+            }
+          ],
+          "answer": 0
+        }
+      ]
+      
+    }
+  ]
+}
